@@ -38,4 +38,30 @@ A fun and interactive memory game built with **HTML**, **CSS**, and **JavaScript
 ---
 
 ## 📂 Project Structure
+simon-says-game/
+│
+├── index.html # Game layout
+├── styles.css # Game styles
+└── script.js # Game logic
+
+
+---
+
+## ✨ Future Enhancements
+
+- Add difficulty modes (Easy, Medium, Hard)  
+- High score tracking with local storage  
+- Mobile optimization and accessibility improvements  
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Acknowledgements
+
+- Inspired by the classic Simon game  
 
