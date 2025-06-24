@@ -40,7 +40,6 @@ A fun and interactive memory game built with **HTML**, **CSS**, and **JavaScript
 ## 📂 Project Structure
 
 simon-says-game/
-- │
 - ├── index.html # Game layout
 - ├── styles.css # Game styles
 - └── script.js # Game logic
