@@ -1,58 +1,41 @@
-#🎮 Simon Says Game
-A fun and interactive memory game built with HTML, CSS, and JavaScript that challenges players to remember and reproduce increasingly complex color sequences.
+# 🎮 Simon Says Game
 
-🧠 About the Game
-Simon Says is a classic memory game where the system displays a sequence of colors, and the player must reproduce the sequence in the correct order. Each successful attempt increases the difficulty by adding an extra color to the sequence.
+A fun and interactive memory game built with **HTML**, **CSS**, and **JavaScript** that challenges players to remember and reproduce increasingly complex color sequences.
 
-🌟 Features
-Colorful and responsive design
+---
 
-Dynamic sequence generation
+## 🧠 About the Game
 
-Sound and visual feedback for each button
+**Simon Says** is a classic memory game where the system displays a sequence of colors, and the player must reproduce the sequence in the correct order. Each successful attempt increases the difficulty by adding an extra color to the sequence.
 
-Game over logic and restart functionality
+---
 
+## 🌟 Features
 
-🛠️ Technologies Used
-HTML5 – Structure and layout
+- Colorful and responsive design  
+- Dynamic sequence generation  
+- Sound and visual feedback for each button  
+- Game over logic and restart functionality  
 
-CSS3 – Styling and animations
+---
 
-JavaScript – Game logic and interactivity
+## 🛠️ Technologies Used
 
-🎯 How to Play
-Press any key to start the game.
+- **HTML5** – Structure and layout  
+- **CSS3** – Styling and animations  
+- **JavaScript** – Game logic and interactivity  
 
-Watch the sequence of colors that flashes.
+---
 
-Click the colors in the same order as shown.
+## 🎯 How to Play
 
-With each level, a new color is added to the sequence.
+1. Press any key to start the game.  
+2. Watch the sequence of colors that flashes.  
+3. Click the colors in the same order as shown.  
+4. With each level, a new color is added to the sequence.  
+5. If you make a mistake, the game resets.
 
-If you make a mistake, the game resets.
+---
 
-📂 Project Structure
-bash
-Copy
-Edit
-simon-says-game/
-│
-├── index.html        # Game layout
-├── styles.css        # Game styles
-└── script.js         # Game logic
-✨ Future Enhancements
-Add difficulty modes (Easy, Medium, Hard)
-
-High score tracking with local storage
-
-Mobile optimization and accessibility improvements
-
-📄 License
-This project is open source and available under the MIT License.
-
-🙌 Acknowledgements
-Inspired by the classic Simon game
-
-Sounds taken from SoundJay / FreeSound
+## 📂 Project Structure
 
